@@ -1,10 +1,10 @@
 * CLSS
 
+CSS Like Simple Selectors. A Common Lisp DOM tree search engine based
+on CSS selectors.
 
-
-|---------+-------------------------------------------|
-| source  | git: |
-| commit  | |
-| systems | CLSS |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/Shinmera/CLSS.git |
+| commit  | c51e25d                                  |
+| systems | clss                                     |
+|---------+------------------------------------------|
