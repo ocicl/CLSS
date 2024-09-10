@@ -5,6 +5,6 @@ on CSS selectors.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/Shinmera/CLSS.git |
-| commit  | 7f0daae                                  |
+| commit  | 59aa1cd                                  |
 | systems | clss                                     |
 |---------+------------------------------------------|
