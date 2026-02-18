@@ -4,7 +4,7 @@ CSS Like Simple Selectors. A Common Lisp DOM tree search engine based
 on CSS selectors.
 
 |---------+------------------------------------------|
-| source  | git:https://github.com/Shinmera/CLSS.git |
-| commit  | d715c4d                                  |
+| source  | git:https://codeberg.org/shinmera/CLSS.git |
+| commit  | 0000000                                  |
 | systems | clss                                     |
 |---------+------------------------------------------|
