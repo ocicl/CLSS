@@ -7,4 +7,4 @@ on CSS selectors.
 | source  | git:https://codeberg.org/shinmera/CLSS.git |
 | commit  | cd5f603                                  |
 | systems | clss                                     |
-|---------+------------------------------------------|
+|---------+------------------------------------------| 
